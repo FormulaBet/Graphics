@@ -32,4 +32,7 @@ for k in range(0, 27):
     ax.set_xlim(0, 12)
     ax.set_ylim(0, 27)
 
+    ax.xaxis.set_major_locator(ticker.MultipleLocator(1))
+    ax.yaxis.set_major_locator(ticker.MultipleLocator(1))
+
     plt.show()
