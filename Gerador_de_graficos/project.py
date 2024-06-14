@@ -25,4 +25,8 @@ for k in range(0, 27):
 
     ax.plot(range(len(pontos)), pontos, marker='o')
 
+    ax.set_title(f'N°{k + 1} {pilotos[k]}({equipes[k]})')
+    ax.set_xlabel('Corrida')
+    ax.set_ylabel('Pontos')
+
     plt.show()
