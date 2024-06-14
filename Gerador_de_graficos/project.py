@@ -29,4 +29,7 @@ for k in range(0, 27):
     ax.set_xlabel('Corrida')
     ax.set_ylabel('Pontos')
 
+    ax.set_xlim(0, 12)
+    ax.set_ylim(0, 27)
+
     plt.show()
