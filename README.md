@@ -2,6 +2,13 @@
 
 Repositório dedicado à geração de gráficos de performance dos corredores da temporada 10 da fórmula E até a corrida atual(corrida N° 12)
 
+Integrantes:
+- Leonardo de Farias - RM: 555211
+- Giancarlo Cestarolli - RM: 555248
+- Gustavo Laur - RM: 556603
+- Rodrigo Akira - RM: 555384
+- Gabriel Mazzariol - RM: 555410
+
 Requisitos de sistema:
 - Instalar matplotlib
 - Instalar pandas
