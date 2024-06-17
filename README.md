@@ -17,3 +17,4 @@ Utilização:
 - Para que não precisem ser feitas auterações no código, abra a pasta "Gerador_de_graficos" com o Visual Studio Code e execute o programa.
 - Caso queira utilizar diretamente o programa "project.py" modifique o caminho da linha 6 pelo caminho para o arquivo "Drivers Championship_updated.csv".
 - Caso queira visualizar os dados diretamente, utilize o arquivo "Corridas.xlsx"
+- Dentro da pasta "Gráficos" se encontram todos os gráficos dos 27 pilotos, utilize essa pasta caso queira visualizar os gráficos sem ficar executando o programa várias vezes
